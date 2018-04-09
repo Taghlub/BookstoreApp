@@ -1,0 +1,54 @@
+{
+  "Id": 1,
+  "Name": "books",
+  "Books": [
+    {
+      "Title": "Mastering öäå",
+      "Author": "Average Swede",
+      "Price": 762.0,
+      "InStock": 14
+    },
+    {
+      "Title": "How To Spend Money",
+      "Author": "Rich Block",
+      "Price": 1000000.0,
+      "InStock": 1
+    },
+    {
+      "Title": "Generic Title",
+      "Author": "First Author",
+      "Price": 185.5,
+      "InStock": 4
+    },
+    {
+      "Title": "Generic Title",
+      "Author": "Second Author",
+      "Price": 1748.0,
+      "InStock": 3
+    },
+    {
+      "Title": "Random Sales",
+      "Author": "Cunning Bastard",
+      "Price": 999.0,
+      "InStock": 20
+    },
+    {
+      "Title": "Random Sales",
+      "Author": "Cunning Bastard",
+      "Price": 499.5,
+      "InStock": 3
+    },
+    {
+      "Title": "Desired",
+      "Author": "Rich Bloke",
+      "Price": 564.5,
+      "InStock": 0
+    },
+    {
+      "Title": "My New Book",
+      "Author": "Test",
+      "Price": 100.0,
+      "InStock": 15
+    }
+  ]
+}
